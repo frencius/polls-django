@@ -1,0 +1,4 @@
+#virtual env
+env
+
+mysite/settings.py
